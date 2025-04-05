@@ -3,3 +3,4 @@ Flask
 face_recognition
 opencv-python
 numpy
+dlib==19.24.6
